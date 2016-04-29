@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+</html>
+
+body {
+    background-color:#CFCFCF;
+}
+
+.cuerpo{
+	align-items: center;
+
+}
+h1 {
+    color: blue;
+}
+
+p {
+    color:green;
+    text-align: justify;
+}
+
+
